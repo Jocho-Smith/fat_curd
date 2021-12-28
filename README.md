@@ -7,7 +7,7 @@
 |How much time?|5h per week (on that sunday)|
 |Finished project| __We first need a more precise idea of what we do before we can decide on when we're done__|
 
-Some techniques/languages/skills we wish to apply/learn:
+### Some techniques/languages/skills we wish to apply/learn:
 - Data warehousing
 - AWS (Cloud services in general)
 - databank post gres (?)
