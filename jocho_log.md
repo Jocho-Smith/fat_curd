@@ -5,4 +5,6 @@
 - Watch an introductino about AWS
 
 ## log:
-- (28.12.21) started today, not clear what exactly to work on. So first research about basics and possible projects.
+### (28.12.21) 
+- started today, not clear what exactly to work on. So first research about basics and possible projects. 
+- learned about 'git config --global credential.helper store' and '$PS1' today
