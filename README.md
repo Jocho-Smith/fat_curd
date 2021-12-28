@@ -6,6 +6,7 @@
 |Importance|only uni and other responsabilities are more importent. The rest (girls, bad mood, ...) will not be exepted. (Maybe we need some punishment? XD)
 |How much time?|5h per week (on that sunday)|
 |Finished project| __We first need a more precise idea of what we do before we can decide on when we're done__|
+
 Some techniques/languages/skills we wish to apply/learn:
 - Data warehousing
 - AWS (Cloud services in general)
