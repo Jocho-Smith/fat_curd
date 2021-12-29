@@ -6,6 +6,15 @@
 |Importance|only uni and other responsabilities are more importent. The rest (girls, bad mood, ...) will not be exepted. (Maybe we need some punishment? XD)
 |How much time?|5h per week (on that sunday)|
 |Finished project| __We first need a more precise idea of what we do before we can decide on when we're done__|
+# Project ideas:
+## Emotion of news:
+Many people state that they don't listen to the news b/c it makes them unhappy. So a collection of news that make one feel happy or are presented in a pleasing way have a better chance to be seen. So the idea is to create a dataset of some current news, and predict its emotion. Topic and reliability is not that important for now. 
+
+So the rough structure would be:
+- Find some source for the data (maybe even first an already existing API). __Audio files__
+- Create a dataset/warehouse/__I don't know anything about the details here__ (local,cloud,?)
+- Use [this](https://huggingface.co/ehcalabres/wav2vec2-lg-xlsr-en-speech-emotion-recognition) speech-emotion-recognition network to make a prediction about the emotion of the speaker.
+
 
 ### Some techniques/languages/skills we wish to apply/learn:
 - Data warehousing
