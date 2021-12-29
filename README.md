@@ -29,3 +29,4 @@ So the rough structure would be:
 - should we use an API or build on ourself?
 - How much data science/ML should we apply here?
 - in git: what is the difference between `fetch` and `pull`?
+- Organization repository or normal account?
