@@ -35,5 +35,5 @@ So the rough structure would be:
 - Which cloud storage?
 # Answered Questions:
 ## Webscraping tool we will use:
-- BeautifulSoup
+- BeautifulSoup (guide: https://towardsdatascience.com/super-simple-way-to-scrape-bbc-news-articles-in-python-5fe1e6ee82d9)
 
