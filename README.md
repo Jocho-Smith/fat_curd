@@ -30,6 +30,9 @@ So the rough structure would be:
 - How much data science/ML should we apply here?
 - in git: what is the difference between `fetch` and `pull`?
 - Organization repository or normal account?
+- Webscrapping (LEGAL?)
+- Why cloudstorage instead of local?
+- Which cloud storage?
 # Answered Questions:
 ## Webscraping tool we will use:
 - BeautifulSoup
