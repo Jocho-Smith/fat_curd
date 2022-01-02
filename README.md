@@ -30,6 +30,7 @@ So the rough structure would be:
 - How much data science/ML should we apply here?
 - in git: what is the difference between `fetch` and `pull`?
 - Organization repository or normal account?
+- How does `diff` in github work? (I tried to check the difference between my local main and the main on github, but didn't get any message. Anyway, I need something to check this.)
 # Answered Questions:
 ## Webscraping tool we will use:
 - BeautifulSoup
