@@ -22,7 +22,7 @@ So the rough structure would be:
 - SQL (what is it, when to use it/when not, who uses it, when and why using alternatives)
 - Kubernets
 - Azure(Microsoft Cloud) / AWS (Cloud services in general)
-- **Docker**
+- **Docker** (e.g. server-deployment/ application deployment if seperated)
 - **CI/CD (Testing!)**
 # Open Questions:
 - shell application vs. webpage
