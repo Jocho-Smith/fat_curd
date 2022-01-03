@@ -18,11 +18,12 @@ So the rough structure would be:
 
 ### Some techniques/languages/skills we wish to apply/learn:
 - Data warehousing
-- AWS (Cloud services in general)
 - databank post gres (?)
 - SQL (what is it, when to use it/when not, who uses it, when and why using alternatives)
 - Kubernets
-- Azure(Microsoft Cloud)
+- Azure(Microsoft Cloud) / AWS (Cloud services in general)
+- **Docker** (e.g. server-deployment/ application deployment if seperated)
+- **CI/CD (Testing!)**
 # Open Questions:
 - shell application vs. webpage
 - can one create multiple github.io web sites or just one per account?
@@ -40,4 +41,4 @@ So the rough structure would be:
 
 ## Storage/Computation
 - Cloud Services can provide servers, storage, databases, networking, software, analytics, and intelligence—over the Internet.
-- Raspery Pi Server
+- Raspery Pi Server (https://airflow.apache.org/docs/)
