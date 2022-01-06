@@ -25,6 +25,7 @@ So the rough structure would be:
 - **Docker** (e.g. server-deployment/ application deployment if seperated)
 - **CI/CD (Testing!)**
 # Open Questions:
+- How to set up Web server based on Apache/ PHP8 / MySQL in linux [here](https://dev.to/aitorsol/wsl2-windows-linux-subsystem-a-guide-to-install-a-local-web-server-ubuntu-20-04-apache-php8-y-mysql8-3bbk)
 - shell application vs. webpage
 - can one create multiple github.io web sites or just one per account?
 - should we use an API or build on ourself?
