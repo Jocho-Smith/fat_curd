@@ -25,7 +25,8 @@ Use Database if:
 
 We want our data to be stored in JSON format:\
 e.g.
-`
+
+```json
 {
     "id":1,
     "heading":"Florida man seduced crocodile",
@@ -33,4 +34,4 @@ e.g.
     "date":"01.01.2200",
     "category":"Reality Check"
 }
-`
+```
