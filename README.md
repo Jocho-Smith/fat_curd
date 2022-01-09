@@ -35,7 +35,6 @@ So the rough structure would be:
 - can one create multiple github.io web sites or just one per account?
 - should we use an API or build on ourself?
 - How much data science/ML should we apply here?
-- in git: what is the difference between `fetch` and `pull`?
 - Organization repository or normal account?
 - How does `diff` in github work? (I tried to check the difference between my local main and the main on github, but didn't get any message. Anyway, I need something to check this.)
 - Webscrapping (LEGAL?)
@@ -44,7 +43,9 @@ So the rough structure would be:
 # Answered Questions:
 ## Webscraping tool we will use:
 - BeautifulSoup (guide: https://towardsdatascience.com/super-simple-way-to-scrape-bbc-news-articles-in-python-5fe1e6ee82d9)
-
+## in git: what is the difference between `fetch` and `pull`?
+- fetch just copies the files over that one does not have localy. It never leads to conflicts, by construction.
+- pull, however, first fetches and than merges the remainings. It can cause conflicts, when both branches have worked on the same line.
 ## Storage/Computation
 - Cloud Services can provide servers, storage, databases, networking, software, analytics, and intelligence—over the Internet.
 - Raspery Pi Server (https://airflow.apache.org/docs/)
