@@ -22,3 +22,15 @@ Use Database if:
 1. We want to scrap a many arcticles over a long period of time.
 2. "" search for data based on different criteria (e.g. Publication , Category (Sport, Politics, Science), ...) 
 3. "" Meta data has to be updated if new categories of articles are uploaded.
+
+We want our data to be stored in JSON format:\
+e.g.
+`
+{
+"id":1,
+"heading":"Florida man seduced crocodile",
+"content": "Text body",
+"date":"01.01.2200",
+"category":"Reality Check"
+}
+`
