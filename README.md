@@ -1,5 +1,7 @@
 If you feel like starring against a wall: https://www.youtube.com/watch?v=PzeC2VP24vM&t=223s
 
+DELETEME
+
 # Notes on that Project
 |Question|Answer|
 |---|---|
@@ -27,6 +29,7 @@ So the rough structure would be:
 - **Docker** (e.g. server-deployment/ application deployment if seperated)
 - **CI/CD (Testing!)**
 # Open Questions:
+- Which dimensions do interest us? Which can be read from news-website, external websites?
 - How to set up Web server based on Apache/ PHP8 / MySQL in linux [here](https://dev.to/aitorsol/wsl2-windows-linux-subsystem-a-guide-to-install-a-local-web-server-ubuntu-20-04-apache-php8-y-mysql8-3bbk)[alternative](https://www.makeuseof.com/tag/build-linux-web-server-computer-part-1/)
 - shell application vs. webpage
 - can one create multiple github.io web sites or just one per account?
