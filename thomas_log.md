@@ -27,10 +27,10 @@ We want our data to be stored in JSON format:\
 e.g.
 `
 {
-  "id":1,
-  "heading":"Florida man seduced crocodile",
-  "content": "Text body",
-  "date":"01.01.2200",
-  "category":"Reality Check"
+    "id":1,
+    "heading":"Florida man seduced crocodile",
+    "content": "Text body",
+    "date":"01.01.2200",
+    "category":"Reality Check"
 }
 `
