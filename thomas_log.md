@@ -30,7 +30,7 @@ e.g.
 {
     "id":1,
     "heading":"Florida man seduced crocodile",
-    "content": "Text body",
+    "content": ["Text body1", "Text body2"]
     "date":"01.01.2200",
     "category":"Reality Check"
 }
