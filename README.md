@@ -57,3 +57,4 @@ So the rough structure would be:
 - SIZE    : DB can store big amount of data and is optimized to access it in file system.
 - QUERRIES: Complex querries with sufficient performance. Search trough huge amount of data. (.csv would have to be loaded entierly into RAM)
 - C       : DB is usually written in C
+- Adaptation: DB-Systems exists for kind of different requirements. Each use case requires other storing capabilities and strenghts of the DB system.
