@@ -21,7 +21,7 @@ So the rough structure would be:
 
 
 ### Some techniques/languages/skills we wish to apply/learn:
-- What's the difference between storing data in csv or in a database?
+
 - Data warehousing
 - databank post gres (?)
 - SQL (what is it, when to use it/when not, who uses it, when and why using alternatives)
@@ -30,6 +30,7 @@ So the rough structure would be:
 - **Docker** (e.g. server-deployment/ application deployment if seperated)
 - **CI/CD (Testing!)**
 # Open Questions:
+- What's the difference between storing data in csv or in a database?
 - Which dimensions do interest us? Which can be read from news-website, external websites?
 - How to set up Web server based on Apache/ PHP8 / MySQL in linux [here](https://dev.to/aitorsol/wsl2-windows-linux-subsystem-a-guide-to-install-a-local-web-server-ubuntu-20-04-apache-php8-y-mysql8-3bbk)[alternative](https://www.makeuseof.com/tag/build-linux-web-server-computer-part-1/)
 - shell application vs. webpage
@@ -50,3 +51,9 @@ So the rough structure would be:
 ## Storage/Computation
 - Cloud Services can provide servers, storage, databases, networking, software, analytics, and intelligence—over the Internet.
 - Raspery Pi Server (https://airflow.apache.org/docs/)
+
+## Database vs .csv
+- SPEED   : A database technology will cache some data in RAM to increase speed. To read a .csv one has to read from file system and store the whole file in RAM. (Size limitation)
+- SIZE    : DB can store big amount of data and is optimized to access it in file system.
+- QUERRIES: Complex querries with sufficient performance. Search trough huge amount of data. (.csv would have to be loaded entierly into RAM)
+- C       : DB is usually written in C
