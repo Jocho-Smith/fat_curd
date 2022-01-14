@@ -21,6 +21,7 @@ So the rough structure would be:
 
 
 ### Some techniques/languages/skills we wish to apply/learn:
+- What's the difference between storing data in csv or in a database?
 - Data warehousing
 - databank post gres (?)
 - SQL (what is it, when to use it/when not, who uses it, when and why using alternatives)
