@@ -52,7 +52,7 @@ So the rough structure would be:
 - Cloud Services can provide servers, storage, databases, networking, software, analytics, and intelligence—over the Internet.
 - Raspery Pi Server (https://airflow.apache.org/docs/)
 
-## Database vs .csv
+## Database vs .csv (File System)
 - SPEED   : A database technology will cache some data in RAM to increase speed. To read a .csv one has to read from file system and store the whole file in RAM. (Size limitation)
 - SIZE    : DB can store big amount of data and is optimized to access it in file system.
 - QUERRIES: Complex querries with sufficient performance. Search trough huge amount of data. (.csv would have to be loaded entierly into RAM)
