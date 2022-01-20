@@ -29,6 +29,7 @@ So the rough structure would be:
 - Azure(Microsoft Cloud) / AWS (Cloud services in general)
 - **Docker** (e.g. server-deployment/ application deployment if seperated)
 - **CI/CD (Testing!)**
+- Some frontend. ([Here](https://codepen.io/) is a nice tool for testing small basic things)
 # Open Questions:
 - What's the difference between storing data in csv or in a database?
 - Which dimensions do interest us? Which can be read from news-website, external websites?

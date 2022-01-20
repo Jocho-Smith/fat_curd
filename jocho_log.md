@@ -5,7 +5,7 @@
 - Go through the lecture slides and write a short summary
 - Check [this](https://www.dataengineering.academy/pipeline-data-engineering-academy-blog/the-data-engineering-portfolio-project) site and its projects (ecpacially the one with the hiphop recommendation thing)
 . Watch an introductino about AWS (What are the gains of using cloud based servises? What do everybody mean with 'learn cloud computing'? If it's just storing data remotely we can also mimic it for this project).
-- html5 reinziehen for proper web scraping. [These](https://www.w3schools.com/) guys do a good job for the first contact! Also for php, js, css, ... So maybe I could check out all of it XD
+- html5 reinziehen for proper web scraping. [These](https://www.w3schools.com/) guys do a good job for the first contact! Also for php, js, css, ... So maybe I could check out all of it XD (also [here](https://codepen.io/) is a nice tool for testing html,css,js stuff)
 - Create a seperate venv for this project! (For now I just use my default one!)
 - Do a custom `git qcommit` command for easy generated commit messages (like github is doing that as default)
 
