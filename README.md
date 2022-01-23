@@ -25,13 +25,13 @@ So the rough structure would be:
 - Data warehousing
 - databank post gres (?)
 - SQL (what is it, when to use it/when not, who uses it, when and why using alternatives)
+- Airflow Apache
 - Kubernets
 - Azure(Microsoft Cloud) / AWS (Cloud services in general)
 - **Docker** (e.g. server-deployment/ application deployment if seperated)
 - **CI/CD (Testing!)**
 - Some frontend. ([Here](https://codepen.io/) is a nice tool for testing small basic things)
 # Open Questions:
-- What's the difference between storing data in csv or in a database?
 - Which dimensions do interest us? Which can be read from news-website, external websites?
 - How to set up Web server based on Apache/ PHP8 / MySQL in linux [here](https://dev.to/aitorsol/wsl2-windows-linux-subsystem-a-guide-to-install-a-local-web-server-ubuntu-20-04-apache-php8-y-mysql8-3bbk)[alternative](https://www.makeuseof.com/tag/build-linux-web-server-computer-part-1/)
 - shell application vs. webpage

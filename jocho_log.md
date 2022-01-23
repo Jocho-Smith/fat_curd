@@ -22,3 +22,7 @@
 - confusion with transformers pretrained networks (huggingface) and the `pysentimento` library. Non of them worked. Maybe I should set up everything from the beginning. Especially b/c I install many things that take up much space, but don't know how to delete it afterwards... So maybe I should take care of that as well. 
 - It however worked out with the pipelines on theiy main page (So a model that is not the same as the one I've found in the first place!)
 - (checking out the disk space afterwards it seams like that stuff is stored in some cashe b/c I got my 1GB back!)
+### (23.01.22)
+- relational und nicht relational: relational bedeutet, dass mein verschiedene unterklassen einer hauptklasse hat die unabhaenig von einander sind. (Also fuer personen, die kunden sind nicht viele 'null Werte' in zeilen wo attribute fuer angestellte stehen.) bei nicht relationalen ist man freier. 
+- streng(SQL) > streng(non-SQL) > streng(nicht-relational) 
+- focus switch zu konzepten auf die Thomas bock hat!
