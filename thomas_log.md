@@ -46,3 +46,7 @@ Determined some technologies of interest. Some of them should be applied in this
 - NLP, Feature Engineering, Text Mining, Computer Vision, Artificial Intelligence, Deep Learning oder Modellbildung (oder)
 - Spark, Kafka, Hadoop, PostgreSQL, HBase, Cassandra, Elasticsearch, Azure, AWS oder GCP
 - Linux Shell, SSH, Git
+
+## 24.01.2022
+
+- Added first Usage of hub-api, and how to update already loaded files. (Because HUB always gets new content/old content is deleted, order of videos changes)
