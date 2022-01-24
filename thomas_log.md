@@ -40,4 +40,9 @@ e.g.
 
 ## 23.01.2022
 
-...
+Determined some technologies of interest. Some of them should be applied in this project.
+- Spark, Dask, Pandas, TensorFlow 
+- **Python**, Java oder Scala
+- NLP, Feature Engineering, Text Mining, Computer Vision, Artificial Intelligence, Deep Learning oder Modellbildung (oder)
+- Spark, Kafka, Hadoop, PostgreSQL, HBase, Cassandra, Elasticsearch, Azure, AWS oder GCP
+- Linux Shell, SSH, Git
