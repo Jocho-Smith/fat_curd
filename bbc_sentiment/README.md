@@ -27,7 +27,7 @@ So the rough structure would be:
 - SQL (what is it, when to use it/when not, who uses it, when and why using alternatives)
 - Airflow Apache
 - Kubernets
-- Azure(Microsoft Cloud) / AWS (Cloud services in general)
+- Cloud services in general (not the huge ones like AWS, see _Answered Questions_)
 - **Docker** (e.g. server-deployment/ application deployment if seperated)
 - **CI/CD (Testing!)**
 - Some frontend. ([Here](https://codepen.io/) is a nice tool for testing small basic things)
@@ -44,6 +44,8 @@ So the rough structure would be:
 - Why cloudstorage instead of local?
 - Which cloud storage?
 # Answered Questions:
+## Should we use AWS?
+- My (jocho) opinion is no, b/c I've read a bit about it now and it's way to advanced/huge for our project! It's the largest provider for cloud services, but this also means that we don't need 98% of their features. And one has to pay for it! So better use some open source, small prototype and learn something about the concept of could computing in general. Maybe it's benificial to know a bit about AWS, b/c it's often mentioned job offers, but it's definitely not suited for our project.
 ## Webscraping tool we will use:
 - BeautifulSoup (guide: https://towardsdatascience.com/super-simple-way-to-scrape-bbc-news-articles-in-python-5fe1e6ee82d9)
 ## in git: what is the difference between `fetch` and `pull`?
