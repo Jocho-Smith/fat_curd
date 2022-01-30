@@ -50,3 +50,7 @@ Determined some technologies of interest. Some of them should be applied in this
 ## 24.01.2022
 
 - Added first Usage of hub-api, and how to update already loaded files. (Because HUB always gets new content/old content is deleted, order of videos changes)
+
+## 27.01.2022
+
+- Visual studio code problems when trying to access the virtual enviroment inside WSL. VS itself is connected to it and executes projects inside it. But after activating the venv, python and pip are still referencing the base interpreter instead of the venv.
