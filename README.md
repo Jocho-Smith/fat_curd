@@ -7,3 +7,5 @@ We switched the focus to creating a database storing metadata scratching from th
 - check apache spark (than decide which technology to use, b/c spark uses multiple technologies)
 ### libraries of use:
 - [This](https://github.com/sskender/pornhub-api) for ratings, duration, link and [this](https://github.com/Derfirm/pornhub-api) for tags, kathegories.
+### possible next projects:
+- create database based on measured data (video of street, audio recording of whatever, maybe even some bluetooth mobile tracking thing)
