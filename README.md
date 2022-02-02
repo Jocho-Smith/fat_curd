@@ -9,3 +9,4 @@ We switched the focus to creating a database storing metadata scratching from th
 - [This](https://github.com/sskender/pornhub-api) for ratings, duration, link and [this](https://github.com/Derfirm/pornhub-api) for tags, kathegories.
 ### possible next projects:
 - create database based on measured data (video of street, audio recording of whatever, maybe even some bluetooth mobile tracking thing)
+- [Common Crawl](http://commoncrawl.org/) is a provider of LOOTTSSS of data to play with. [Here](https://vdocuments.mx/reader/full/introduction-to-common-crawl) is a presentation collectiong some basic stuff from them. (One might also check the [wiki](https://en.wikipedia.org/wiki/Common_Crawl)). [Here](https://github.com/haydenhw/commoncrawl-emr-tutorial) is also a nice project using it (and even some basic AWS for 50 cents of so, so something we could also try!)
