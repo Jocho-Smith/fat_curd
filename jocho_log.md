@@ -26,3 +26,5 @@
 - relational und nicht relational: relational bedeutet, dass mein verschiedene unterklassen einer hauptklasse hat die unabhaenig von einander sind. (Also fuer personen, die kunden sind nicht viele 'null Werte' in zeilen wo attribute fuer angestellte stehen.) bei nicht relationalen ist man freier. 
 - streng(SQL) > streng(non-SQL) > streng(nicht-relational) 
 - focus switch zu konzepten auf die Thomas bock hat.
+### (07.04.22)
+- I'll make a cut for this project for now and explain 
